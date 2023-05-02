@@ -1,0 +1,6 @@
+{
+    "Book": true,
+    "Core": true,
+    "Migration": true,
+    "CreateBooksTable": true
+}
